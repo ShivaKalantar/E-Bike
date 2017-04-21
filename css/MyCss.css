@@ -1,0 +1,181 @@
+.header{
+
+    background: url('../img/Header.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+header#header.header{
+    width: 100%;
+    height: 100%;
+}
+h2#h4{
+    font-size: medium;
+  line-height: 25px;
+    color: black;
+}
+.link:active, .link:focus{
+    background-color: #575093;
+}
+a{
+    color: #575093;
+    font-weight: bold;
+}
+a:hover{
+
+    color: #575093;
+}
+.link{
+    background:#575093;
+}
+.link:hover{
+    color: #c098d3!important;
+    background-color: white!important;
+}
+.main-nav li a:hover {
+    text-decoration: none;
+    color:#c098d3;
+
+}
+.main-nav li a {
+    font-size: large;
+    color:  #575093;
+}
+.img-thumbnail{
+    width: 400px;
+    height: 200px;
+    opacity: 1;
+}
+.Portfolio-box img:hover {
+    opacity: 1;
+}
+h1.QandA{
+    margin-bottom: 50px;
+    text-align: center;
+    color:#575093;
+}
+h2.padding-b{
+    margin-bottom: 50px;
+    text-align: center;
+}
+.featured-box-col1 i{
+    color:#575093;
+}
+
+    .main-section,section#FeaturedWork{
+        background:url("../img/Texture.jpg");
+        text-align: left;
+    }
+    .client-part-haead{
+        text-align: center;
+        color:#575093;
+    }
+.client {
+    text-align: left;
+}
+li.wow.fadeInDown{
+    color:#575093;
+    margin: 5% 0 1% 0;
+
+
+}
+li.wow.fadeInRight {
+    font-size: medium !important;
+}
+.img-thumbnail.center-block{
+    width: auto;
+    height: auto;
+}
+h2{
+    text-transform: none;
+    color: #888888;
+    font-weight: normal;
+    letter-spacing: normal;
+    text-align: left;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+h2.Krasta{
+    text-align: center;
+}
+.Checklist{
+    width: 15%;
+    height: 15%;
+}
+.Right{
+    padding: 3%;
+}
+.P{
+    margin: 5%;
+}
+.F{width: 100%;}
+.main-nav li a{margin: 2%}
+.footer{background-image: url('../img/Footer.png');}
+.copyright{color: white}
+.main-section{
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0;
+}
+.col-lg-12{
+
+    padding-right: 0;
+
+}
+.Same{
+    margin:0 15% 0 15%;
+    font-size: medium;
+}
+
+@media only screen and (max-width: 992px){
+.featured-box p{
+    line-height: 1.5;
+}
+    p {
+        font-size: medium;
+        line-height: 1.5;
+        padding: 5px;
+        color: black;
+    }
+    li.wow.fadeInDown{
+        font-size: large;
+    }
+    h1.animated{
+        font-size: large;
+    }
+    li.Right{
+        font-size: medium;
+    }
+    h2.Krasta,h1.fadeInDown{
+        font-size:x-large;
+    }
+
+}
+.btn-primary{
+    background-color:#575093;
+    border-color: #575093;
+}
+#fa-bicycle{
+    font-size: 70px;
+    color:#575093 ;
+    text-align:center;
+}
+#ProsAndCons{
+    height: 300px;
+    width: 70%;
+}
+h3.wow.fadeInDown{
+    font-size: large;
+    color: #575093;
+    padding: 3% 0 0 0;
+    font-weight: bold;
+}
+.featured-box-col2>h3{
+    color:#575093 ;
+}
+.featured-box-col2>p{
+    font-size: medium;
+}
+li.Right.wow.fadeInRight{
+    padding: 0;
+}
